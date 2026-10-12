@@ -1,0 +1,7 @@
+# não sobe para a Vercel: ferramentas e arquivos que o site não usa
+tools
+README.md
+assets/logos
+assets/img/app-screen.png
+assets/img/avatar-*.png
+assets/img/team-*.png

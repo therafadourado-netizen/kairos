@@ -1,0 +1,547 @@
+[00:00] Se a sua empresa fatura pelo menos 5 milhões de reais por ano, eu quero te fazer uma proposta
+[00:04] um pouco diferente.
+[00:05] Eu quero colocar o meu time dentro da sua empresa para implementar a inteligência artificial
+[00:09] nos seus processos.
+[00:10] Eu não vou te cobrar absolutamente nada por esse trabalho.
+[00:13] E quando eu diga implementar, eu não estou falando de te dar uma aula sobre chat e apeteta.
+[00:17] Não estou falando de fazer um diagnóstico, montar um powerpoint bonito, te falar o
+[00:21] que você deveria fazer e ir embora.
+[00:23] Eu vou enviar o meu time para ir presencialmente até a sua empresa, independente de onde seja
+[00:28] a sua sede.
+[00:29] Entrar na sua operação, mapear os processos, identificar onde estão as maiores oportunidades
+[00:35] de ganho e construir as primeiras soluções junto com vocês.
+[00:39] Não é educação não, é serviço, implementação direta de inteligência artificial com alguns
+[00:45] dos maiores especialistas no tema no Brasil.
+[00:48] E nos próximos minutos eu vou te explicar por que eu estou fazendo isso.
+[00:51] Exatamente o que está incluído e qual é a condição para você participar.
+[00:56] Eu sou o fundador e presidente do G4.
+[00:59] E se tem uma coisa que eu aprendi nos últimos anos, é que não adianta ter a melhor tecnologia
+[01:04] se você continua operando com a mesma arquitetura de anos.
+[01:07] Essa é uma tese que eu levei para o Global Conference do Milken Institute em Los Angeles
+[01:11] em um encontro com alguns dos maiores líderes do mundo.
+[01:14] A ideia é simples, uma tecnologia nova, por mais poderosa que seja, gera pouco
+[01:18] resultado quando você simplesmente encaixa essa tecnologia dentro de processos antigos.
+[01:24] Pois exatamente o que aconteceu com a eletricidade.
+[01:26] No começo, as fábricas trocaram o motor a vapor pelo motor elétrico, mas mantiveram o mesmo
+[01:32] desenho da fábrica, as mesmas correias, os mesmos eixos e praticamente o mesmo processo.
+[01:38] O grande salto de produtividade só veio quando elas redesenharam a fábrica inteira
+[01:43] em torno da eletricidade.
+[01:44] Eu acho que hoje a maioria das empresas está cometendo exatamente o mesmo erro
+[01:48] com inteligência artificial.
+[01:50] Elas colocam chat e PT, cloud ou qualquer outra LLM em cima de um processo que foi
+[01:55] desenhado para um mundo sem inteligência artificial e espera uma transformação.
+[01:59] Deixa eu te contar, não vai acontecer.
+[02:01] A pergunta que importa não é como eu coloco inteligência artificial no processo que eu já tenho.
+[02:05] A pergunta certa é se eu desenhasse esse processo do zero hoje,
+[02:08] sabendo que inteligência artificial virou infraestrutura.
+[02:12] Como ele deveria funcionar?
+[02:13] É isso que me interessa em inteligência artificial, Turma.
+[02:15] Não a tecnologia pela tecnologia, mas o que ela faz com a sua operação,
+[02:20] com a sua produtividade, com margem e no final do dia, com dinheiro no seu bolso.
+[02:25] Então deixa eu te mostrar porque eu estou tão convicto de que essa é uma das maiores
+[02:29] transformações para os negócios desde a energia elétrica.
+[02:32] Em 2022, o G4 faturou 131 milhões de reais e gerou aproximadamente 9 milhões de reais de caixa,
+[02:38] que é tudo aquilo que sobra depois do EBITDA.
+[02:41] Em 2025, nós faturamos 508 milhões de reais e geramos 104 milhões de reais de caixa.
+[02:48] Em 3 anos multiplicamos a geração de caixa em 11.5 vezes, praticamente sem crescer a headcount.
+[02:54] E no final do dia, é isso que importa para o fundador,
+[02:57] quando o dinheiro sobra no caixa depois que a operação roda.
+[03:01] Foi a inteligência artificial que fez tudo isso sozinho?
+[03:03] É obviamente que não, né?
+[03:04] Nenhuma empresa cresce dessa forma por causa de uma só alavanca.
+[03:08] Mas se você perguntar quais foram as principais alavancas de eficiência
+[03:11] que mudaram o patamar do G4 nesse período,
+[03:13] aí sim, sem dúvidas, foi a implementação de inteligência artificial.
+[03:17] E o motivo é muito simples, tá?
+[03:18] A gente não simplesmente comprou o chat EPT para todo mundo e torceu
+[03:22] para que as pessoas ficassem produtivas,
+[03:24] só que você está fazendo provavelmente.
+[03:25] A gente redesenhou os processos inteiros da companhia,
+[03:28] assumindo que agora existe uma camada de inteligência que antes não existia.
+[03:32] E eu vou te dar alguns exemplos.
+[03:34] No WhatsApp, nós construímos a nossa própria infraestrutura de mensageria.
+[03:37] Só esse projeto tem uma economia anual estimada entre 1 e 1 milhão e 600 mil reais,
+[03:43] principalmente eliminando o mark-up e custos de ferramenta de terceiros.
+[03:47] No atendimento, nós reconstruímos parte de um processo
+[03:51] usando uma arquitetura de agentes de inteligência artificial.
+[03:54] A resolução automática, que ficava em aproximadamente 8%,
+[03:58] hoje está em torno, turma, PASB, de 40% de 8% para 40%.
+[04:03] No nosso processo de criação de conteúdo,
+[04:05] tarefas de edição como cortes de podcast
+[04:08] que levavam a aproximadamente 1h30
+[04:10] passaram a levar perto de 5 minutos.
+[04:13] Em pré-vendas, nossa plataforma comercial escuta as calls dos SDRs
+[04:17] e documenta tudo de forma estruturada.
+[04:20] Isso liberou o tempo do time e aumentou em 84,7%
+[04:24] a quantidade de calls realizadas pelos pré-vendedores.
+[04:27] Imagina dobrar a produtividade de seu time com uma ferramenta.
+[04:30] Em vendas, nossa inteligência artificial
+[04:33] lê a nota de qualificação do SDR,
+[04:35] estuda o mercado daquela empresa e ajuda o vendedor a construir um pitch melhor.
+[04:40] Hoje, ela inclusive funciona como um coach em tempo real
+[04:43] sugerindo argumentos durante a própria call com o cliente.
+[04:47] Como essa estrutura?
+[04:48] A taxa de conversão dos executivos em rampagem
+[04:51] saiu de 7,6% para 14,8%.
+[04:55] Quase dobrou.
+[04:56] E esses são alguns exemplos.
+[04:57] A gente tem dezenos de processos do G4 que foram redesenhados dessa forma.
+[05:02] Agora, presta atenção no ponto mais importante dessa conversa.
+[05:05] Nada disso aconteceu porque nós descobrimos um prompte mágico.
+[05:10] E nada disso aconteceu porque o G4 tem acesso
+[05:13] a alguma inteligência artificial secreta.
+[05:15] A verdade é que as mesmas ferramentas estão disponíveis para mim,
+[05:18] para você, para a padaria do bairro
+[05:20] e para as maiores empresas do mundo.
+[05:21] O modelo é o mesmo. O Tolkien é comodity.
+[05:24] Quando eu falo Tolkien, eu estou falando daquela gasolininha
+[05:26] do Clod, do ChatEPT, do Diamenai.
+[05:28] Todo mundo tem acesso a mim mesmo.
+[05:29] O que muda é a implementação que você faz com isso na sua empresa.
+[05:33] Para gerar esses resultados,
+[05:35] a gente precisou entender o processo, olhar os dados,
+[05:38] mapear, gargalos, priorizar oportunidades,
+[05:41] conectar ferramentas, construir agentes,
+[05:44] skills, automações ou até aplicações
+[05:47] e principalmente colocar aquilo para rodar dentro da sua operação.
+[05:51] Fazer o teu time usar, redesenhar o processo.
+[05:54] Isso é muito diferente do que acontece
+[05:56] em boa parte das empresas hoje.
+[05:58] Talvez você use ChatEPT todos os dias.
+[06:00] Seu marketing use Clod, seu comercial use o Diamenai
+[06:03] e alguém use até a Perplexer.
+[06:05] E todo mundo ficou um pouco mais produtivo.
+[06:07] Isso é um fato.
+[06:08] Só que usar inteligência artificial
+[06:10] não é a mesma coisa que operar com inteligência artificial.
+[06:13] Quando uma pessoa use A para pesquisar, escrever textos,
+[06:16] resumir reunião ou analisar documentos,
+[06:19] você tem um ganho individual e linear.
+[06:21] Quando uma empresa opera usando inteligência artificial como máquina,
+[06:26] ela pega um processo que depende de 5 pessoas,
+[06:29] 4 ferramentas e dezenas de decisões manuais e pergunta,
+[06:33] se eu desenhasse isso do zero hoje,
+[06:35] sabendo que existe inteligência artificial disponível 24 horas por dia,
+[06:39] como esse processo deveria funcionar?
+[06:41] Aí você começa a criar contexto da empresa,
+[06:44] agentes, fluxos, governança, integração
+[06:48] e principalmente, resultado mensurável.
+[06:51] Então a maior conclusão que a gente teve
+[06:52] nesses últimos anos aqui no G4 foi a seguinte,
+[06:55] o principal gap de inteligência artificial nas empresas hoje
+[06:58] não é ferramenta, tá?
+[06:59] É a implementação,
+[07:00] é alguém indo na sua empresa conversando com seu time
+[07:03] e redesenhando o processo, é consultoria.
+[07:06] E foi exatamente por isso que a gente construiu o G4OS.
+[07:10] O G4OS não é uma tentativa de fazer um chat de PT melhor, tá?
+[07:14] Eu não compito com a OpenAI, Antropoc ou a Google.
+[07:18] Na verdade, eu uso todas essas ferramentas.
+[07:21] O G4OS conecta os principais modelos do mercado
+[07:24] dentro de uma mesma infraestrutura.
+[07:27] Então seu time consegue usar o melhor modelo pra cada tarefa,
+[07:30] sem precisar espalhar o conhecimento da empresa
+[07:33] em três, quatro ferramentas diferentes.
+[07:35] Mas a parte mais importante é o contexto.
+[07:38] Dentro do G4OS, conhecimento deixa de ser individual
+[07:42] e começa a virar um ativo da sua empresa.
+[07:44] Documentos, regras, dados e processos
+[07:47] passam a compor um contexto comum da empresa.
+[07:50] O sistema ainda consegue orquestrar diferentes modelos
+[07:53] de acordo com cada tarefa,
+[07:55] buscando a melhor combinação entre qualidade,
+[07:58] velocidade e custo, que tanto importa.
+[08:02] Então em vez de cada funcionário construir um cérebro
+[08:04] particular numa conta separada de chat de PT ou cloud,
+[08:08] a empresa começa a construir o próprio cérebro eletrônico.
+[08:11] Agora vem o problema.
+[08:12] Eu posso simplesmente vender o G4OS pra você amanhã.
+[08:16] Eu posso te dar um login, senha, Tolkien
+[08:18] e os melhores modelos do mundo, e daqui a seis meses.
+[08:20] A sua empresa pode estar praticamente igual ou marginalmente melhor.
+[08:24] Porque, de novo, o problema não é a ferramenta.
+[08:26] Tem um monte aí, é a implementação.
+[08:28] E é aqui que entra a proposta do começo desse vídeo.
+[08:31] Por que eu estou disposto a colocar o meu time
+[08:33] dentro da sua empresa sem te cobrar por implementação?
+[08:37] A resposta é simples.
+[08:38] Eu preciso de case.
+[08:39] Meu objetivo é ter os melhores cases de inteligência artificial
+[08:42] do Brasil na base do G4.
+[08:44] Eu não vou inventar uma história mais sofisticada do que essa.
+[08:47] Eu quero fazer o que fizemos aqui no G4
+[08:49] nas empresas dos nossos alunos,
+[08:51] na sua empresa que está me assistindo até agora.
+[08:53] Desse ano, nossa principal prioridade com o G4OS
+[08:57] é construir uma quantidade grande de cases reais de empresas
+[09:00] operando e redesenhadas com inteligência artificial.
+[09:04] Eu quero ter uma empresa de indústria,
+[09:05] serviços, vareijos, saúde, tecnologia,
+[09:08] todos os setores em nossa base de cases de inteligência artificial.
+[09:12] E quero conseguir mostrar de forma muito concreta.
+[09:14] Essa era a operação antes, isso foi implementado
+[09:17] e esse foi o resultado.
+[09:19] Pra mim, hoje, construir esses cases
+[09:22] valem mais do que cobrar pela consultoria.
+[09:24] No longo prazo, essa conta não para de pé.
+[09:26] Eu não quero transformar o G4 em uma empresa de consultoria.
+[09:29] Pra ser bem pragmático,
+[09:31] eu ganho muito mais deixando o meu time
+[09:32] de implementação de inteligência artificial
+[09:34] aqui dentro do G4
+[09:35] do que mandando essas pessoas pra dentro da empresa dos outros.
+[09:39] Só que nesse momento,
+[09:40] eu estou disposto a abrir mão dessa margem
+[09:42] porque eu acredito que, tendo esses cases,
+[09:44] eu vou vender muito mais G4OS no futuro.
+[09:47] E essa é a conta.
+[09:48] Só que, obviamente,
+[09:50] eu não vou fazer isso pra qualquer empresa, né?
+[09:51] Existem quatro pré-requisitos
+[09:54] pra participar do G4OS Campaigns.
+[09:56] O primeiro é ter pelo menos 10 pessoas na empresa
+[09:59] trabalhando em funções de escritório.
+[10:02] Se você tem uma operação muito pequena,
+[10:03] provavelmente ainda não existe uma complexidade suficiente
+[10:07] pra justificar o meu nível de implementação
+[10:09] que estou disposto a colocar na sua empresa.
+[10:11] O segundo é ter um fundador ou sócio relevante
+[10:14] ou um CEO diretamente envolvido no projeto.
+[10:17] Porque implementar inteligência artificial de verdade, Thomas,
+[10:21] não é colocar mais uma ferramenta no cartão da empresa, tá?
+[10:23] Em alguns casos,
+[10:24] a gente vai propor mexer em processos que existem há anos.
+[10:28] Então, o que eu preciso ter do nosso lado
+[10:30] é alguém com autoridade, com a caneta,
+[10:32] pra tomar a decisão
+[10:34] e fazer as mudanças que, de fato,
+[10:36] precisam ser feitas pra sua empresa escalar.
+[10:38] O terceiro pré-requisito
+[10:40] é autorizar que a gente documente o seu case.
+[10:42] E eu estou te falando isso justamente
+[10:44] porque eu quero ser transparente
+[10:45] sobre a razão dessa oferta de pai pra filho existir.
+[10:48] Sem implementação funcionar,
+[10:50] eu quero poder contar a sua história,
+[10:52] qual era o problema, o que a gente implementou
+[10:54] e que resultado foi gerado.
+[10:56] Obviamente,
+[10:57] dado sensível, informação confidencial
+[10:59] e qualquer questão estratégica da companhia
+[11:02] ficam protegidos, a gente combina isso na nossa reunião.
+[11:04] Não é sobre abrir os dados da sua empresa, tá?
+[11:07] Mas sim sobre poder transformar o resultado da sua empresa
+[11:10] em case e demonstrá-lo para mais de 700 milhões de olhos
+[11:14] que acompanham os nossos conteúdos, mensalmente.
+[11:17] E nessa prática, isso também tende a ser bom pra você.
+[11:20] Porque se a implementação for relevante
+[11:22] e a sua empresa for divulgada nos canais do G4
+[11:25] como uma grande referência de implementação
+[11:27] de inteligência especial,
+[11:29] obviamente isso vai dar um award
+[11:31] nesta sua marca que você não pagou por ele.
+[11:33] E o quarto pré-requisito é comprometimento financeiro.
+[11:36] A sua empresa precisa estar disposta a investir,
+[11:38] pelo menos 10 mil reais por mês
+[11:41] em infraestrutura de inteligência artificial.
+[11:43] E aqui eu quero ser bem direto.
+[11:45] Se você fatura mais de 5 milhões por ano
+[11:47] e realmente acredita que inteligência artificial
+[11:49] vai ser parte relevante da sua operação,
+[11:52] 10 mil reais por mês em Tolkien não deveria ser um problema, né?
+[11:55] Na verdade, se você não está gastando algo próximo de sua hoje,
+[11:58] provavelmente você não está operando
+[12:00] com inteligência especial de verdade.
+[12:02] E sem dúvidas, o retorno aqui é muito maior
+[12:04] do que o investimento que você está fazendo.
+[12:06] Isso é próximo de um custo de um único profissional qualificado,
+[12:09] só que estamos falando de uma infraestrutura
+[12:11] que pode ser utilizada por várias pessoas
+[12:13] em várias áreas da companhia.
+[12:15] Então, resumindo, pelo menos 10 pessoas
+[12:17] em funções de escritório,
+[12:19] fundador, sua sonho relevante ou CEO envolvido,
+[12:21] autorização para documentarmos o seu case,
+[12:24] preservando qualquer dado sencillo
+[12:26] e disposição para investir pelo menos 10 mil reais por mês
+[12:30] em infraestrutura de AI.
+[12:31] Se você não se encaixa nesses quatro critérios,
+[12:34] não faz sentido continuar aqui.
+[12:35] Agora, se você se encaixa,
+[12:37] presta atenção no que eu vou fazer
+[12:38] pelas empresas que entrarem no G4OS Company.
+[12:41] A primeira entrega é um AI Master dedicado à sua jornada.
+[12:45] O AI Master é basicamente
+[12:47] uma pessoa que nós contratamos e treinamos
+[12:50] para fazer implementação de inteligência artificial
+[12:52] na sua empresa.
+[12:53] É o mesmo profissional que ajuda a gente a construir
+[12:55] essas soluções aqui dentro do G4
+[12:58] e multiplicar 11 vezes e meia geração de caixa.
+[13:01] A gente começa a fazer um diagnótico da empresa,
+[13:03] conversando com as áreas prioritárias,
+[13:05] matei os processos,
+[13:06] entendi os gargalos,
+[13:07] regras,
+[13:08] dados e oportunidades
+[13:10] e usa nossa própria tecnologia construída aqui
+[13:12] para construir um roadmap
+[13:14] priorizando inteligência artificial
+[13:16] na sua empresa para o seu momento e mercado.
+[13:18] Não é uma lista de 50 ideias legais
+[13:20] para você implementar algum dia não, tá?
+[13:22] É uma priorização baseada em impacto,
+[13:24] velocidade,
+[13:25] viabilidade considerando o seu momento
+[13:28] no seu mercado na sua região.
+[13:29] Depois disso, o AI Master
+[13:31] vai presencialmente para dentro da sua empresa
+[13:34] por três dias
+[13:35] e ele não vai para apresentar o roadmap.
+[13:37] Ele vai botar a mão na massa junto com seu time
+[13:40] para construir solução.
+[13:41] A meta é pegar as oportunidades priorizadas
+[13:44] e transformar aquilo em soluções funcionais
+[13:47] para o seu time.
+[13:47] Podem ser ferramentas, agentes,
+[13:50] skills ou até automações.
+[13:51] Depende do que fizer mais sentido para o seu negócio.
+[13:54] Depois, a implementação continua com
+[13:56] acompanhamento em reuniões diretas
+[13:58] com seu AI Master.
+[13:59] No primeiro mês,
+[14:00] fazemos reuniões semanais.
+[14:02] No mês 2 e 3,
+[14:03] reuniões 15 anais.
+[14:05] E no quarto mês em diante,
+[14:06] encontros mensais
+[14:08] até completar 12 meses.
+[14:09] Além disso,
+[14:10] você tem um grupo direto com o seu AI Master
+[14:13] e com o João Vitor,
+[14:14] nosso CPTO
+[14:16] e líder do G4S
+[14:17] para remover
+[14:18] quaisquer bloqueios ao longo da execução.
+[14:20] E no sexto mês,
+[14:21] o AI Master
+[14:23] volta presencialmente
+[14:25] mais um dia para revisar aquilo que foi implementado
+[14:28] e obviamente fazer os ajustes necessários
+[14:31] para acelerar a sua próxima etapa.
+[14:32] Então, não é uma consultoria que entra da opinião
+[14:35] e vai embora, como geralmente acontece, tá?
+[14:37] É uma jornada de implementação de 12 meses.
+[14:40] A segunda entrega é a capacitação.
+[14:42] Porque eu também não quero que,
+[14:43] no final desse processo,
+[14:45] a sua empresa dependa do G4 para sempre.
+[14:47] Eu quero transferir essa capacidade
+[14:48] para o seu time.
+[14:49] Então, a empresa recebe acesso
+[14:51] ao G4 AI Academy,
+[14:52] nosso programa online e ao vivo
+[14:54] para nivelar o time em inteligência artificial.
+[14:57] Recebe também
+[14:58] a nossa biblioteca de ferramentas,
+[15:00] playbooks, prompt,
+[15:02] vídeos e materiais práticos.
+[15:03] E uma pessoa da sua empresa
+[15:05] participa do G4 Sprints DIY.
+[15:07] São três dias presenciais aqui no G4
+[15:10] completamente focados em implementação.
+[15:12] Só essa vaga
+[15:13] é um produto que hoje custa 40 mil reais, turma.
+[15:16] A terceira entrega é o próprio G4S.
+[15:19] É a infraestrutura
+[15:20] onde a empresa vai acessar
+[15:22] os principais modelos de inteligência artificial.
+[15:24] Acumular contexto
+[15:26] e construir boa parte dessas skills,
+[15:28] agentes e soluções.
+[15:30] Então, deixa eu resolver
+[15:31] tudo o que você vai receber se for selecionado.
+[15:33] Você recebe AI Master
+[15:35] dedicado e diagnóstico da sua empresa.
+[15:38] Quatro dias de implementação presencial
+[15:40] ao longo da jornada.
+[15:41] Roadmap
+[15:42] e acompanhamento durante 12 meses.
+[15:44] Grupo de suporte com AI Master
+[15:46] e o nosso sócio, João Vito.
+[15:48] Além do G4 AI Academy,
+[15:50] biblioteca de ferramentas e promptes
+[15:52] e G4 Sprints DIY
+[15:54] que sozinho custa 40 mil reais
+[15:56] e G4S rodando como infraestrutura
+[15:59] da sua empresa.
+[16:00] Agora te pergunto.
+[16:01] Quanto você acha que custaria
+[16:03] contratar toda essa estrutura de implementação
+[16:05] e capacitação durante 12 meses?
+[16:07] Se você fosse comprar tudo isso como serviço,
+[16:09] gastaria algumas centenas de milhares de reais.
+[16:12] E sendo bem direto,
+[16:13] eu não conheço ninguém no mercado
+[16:14] oferecendo algo parecido
+[16:15] com o nível de implementação
+[16:17] e o histórico de inteligência artificial
+[16:19] que a gente construiu dentro do G4.
+[16:20] Quem que você conhece aí
+[16:21] que vai faturar 1 bilhão de reais no ano que vem
+[16:23] e que multiplicou 11 vezes e meia geração de caixa
+[16:26] em 3 anos da companhia
+[16:27] usando inteligência artificial?
+[16:28] Pois ninguém.
+[16:29] Só que, como eu falei no primeiro minuto deste vídeo,
+[16:31] o que eu vou te cobrar pela implementação
+[16:33] e capacitação do seu time é zero.
+[16:35] Isso mesmo.
+[16:36] Você não vai pagar nenhum centavo
+[16:38] pela implementação.
+[16:39] Agora lembra do quarto pré-requisito?
+[16:42] Você precisa estar disposto a investir
+[16:44] pelo menos 10 mil reais por mês
+[16:46] em infraestrutura de inteligência artificial.
+[16:48] E aí que entra o G4S?
+[16:50] Para participar do G4S Companies,
+[16:52] você precisa contratar o plano anual do G4S
+[16:56] por 10 mil reais por mês.
+[16:57] Esse é um investimento na infraestrutura
+[16:59] e no consumo de inteligência artificial
+[17:02] dentro da sua empresa.
+[17:03] Essencialmente em touca.
+[17:04] E se você fatura pelo menos 5 milhões de reais por ano,
+[17:06] provavelmente você já deveria estar
+[17:09] colocando algo próximo disso
+[17:10] em touca e na sua empresa.
+[17:11] Se você ainda não está,
+[17:13] talvez esse seja justamente um sinal
+[17:15] de que inteligência artificial
+[17:16] ainda está entrando na sua empresa
+[17:18] como ferramenta individual
+[17:20] e não como infraestrutura operacional
+[17:22] que é o que funcionou para a gente.
+[17:23] Então falando de uma forma
+[17:24] quase grosseiramente simples,
+[17:26] você comprou uma infraestrutura de AI
+[17:28] e eu vou tirar do meu bolso
+[17:30] para bancar a implementação.
+[17:31] Vou colocar algumas das pessoas mais brilhantes
+[17:33] do meu time
+[17:34] para ir presencialmente na sua empresa
+[17:37] para que você consiga operar
+[17:38] com inteligência artificial
+[17:39] de verdade na sua companhia.
+[17:41] Junto com o G4S,
+[17:42] eu coloco um AI Master dedicado,
+[17:44] diagnóstico da empresa,
+[17:45] quatro dias presenciais ao longo da jornada,
+[17:48] roadmap de implementação,
+[17:50] acompanhamento durante 12 meses,
+[17:53] grupo de suporte com o AI Master
+[17:55] e o nosso sócio João.
+[17:56] Acesse ao G4 AI Academy,
+[17:59] biblioteca de ferramentas
+[18:00] e ainda o G4 Sprints de AI
+[18:02] que só isso custa 40 mil reais.
+[18:04] Tudo isso com custo zero adicional para a sua empresa.
+[18:07] A única despesa que fica por sua conta
+[18:09] nas visitas presenciais
+[18:10] é a passagem e hospedagem do AI Master.
+[18:13] Porque sendo bem sincero,
+[18:14] se eu pagar isso também,
+[18:16] aí eu vou tomar para juízo.
+[18:17] Então a conta é muito simples.
+[18:18] Você investe 10 mil reais por mês
+[18:20] na infraestrutura de AI
+[18:21] que a sua empresa vai usar
+[18:23] e eu faço o investimento no time
+[18:25] na implementação,
+[18:26] na capacitação,
+[18:27] no acompanhamento para maximizar
+[18:29] a chance de isso virar resultado
+[18:30] dentre outras funções
+[18:32] que eu falei que vou te entregar.
+[18:33] Porque eu faço isso
+[18:34] que eu quero que você se torne
+[18:35] um case de AI do G4.
+[18:38] Eu estou aceitando perder dinheiro agora
+[18:40] para construir os cases
+[18:41] que vão me possibilitar
+[18:42] crescer muito mais nesse produto,
+[18:45] que é a minha grande aposta
+[18:46] para o futuro do G4.
+[18:47] Só que tem um ponto importante.
+[18:48] Isso vai sair do Arta.
+[18:50] Eu tenho um limite físico
+[18:51] de empresas que eu consigo atender.
+[18:53] Eu não tenho AI Master's
+[18:54] treinados infinitamente.
+[18:55] Infelizmente.
+[18:56] Essas são as mesmas pessoas
+[18:58] que criam as soluções internamente
+[19:00] aqui para o G4 bater suas metas.
+[19:01] E principalmente
+[19:02] eu não vou transformar o G4
+[19:03] numa empresa de serviços.
+[19:04] Esse modelo não escala,
+[19:06] não é o nosso objetivo de longo prazo.
+[19:08] Eu estou abrindo mão de margem
+[19:10] porque eu acredito que os cases
+[19:11] vão fazer esse movimento
+[19:13] valer a pena depois.
+[19:14] Conforme a base de cases cresce
+[19:16] e a demanda pelo time de implementação
+[19:17] aumenta,
+[19:18] esse trabalho vai passar
+[19:19] a ter um preço próprio.
+[19:21] E sem dúvidas,
+[19:22] vai ser um preço muito mais alto.
+[19:23] Então se a sua empresa se encaixa
+[19:25] nos quatro pré-requisitos
+[19:26] e você quer aproveitar esse modelo
+[19:28] enquanto ele está disponível,
+[19:29] o próximo passo é simples.
+[19:31] Clique no botão abaixo
+[19:32] e preencha a sua aplicação.
+[19:34] Preencher a aplicação
+[19:35] não significa que você está
+[19:36] contratando nada, tá?
+[19:37] O nosso time vai analisar
+[19:39] as suas informações
+[19:40] e depois vai entrar em contato com você.
+[19:41] Se a gente entender que realmente existe um fit,
+[19:44] um executivo especializado do G4
+[19:46] vai te ligar
+[19:46] e vai marcar uma conversa
+[19:48] com um dos nossos AI Master's,
+[19:49] os consultores.
+[19:50] Nessa reunião,
+[19:51] a gente vai sair do genérico.
+[19:53] Vamos entender o seu negócio,
+[19:54] seus processos,
+[19:55] as principais dores da operação
+[19:57] e começar a discutir
+[19:58] onde existe as melhores oportunidades
+[20:00] de implementação.
+[20:00] Depois dessa conversa,
+[20:02] entendemos se você pode ser
+[20:03] um case de AI do G4 ou não.
+[20:05] Então,
+[20:05] voltamos à proposta do começo.
+[20:07] Se a sua empresa
+[20:07] fatura mais de 5 milhões de reais por ano
+[20:09] e se encaixa nos quatro critérios
+[20:11] que eu falei nesse vídeo,
+[20:12] eu estou disposto a enviar
+[20:14] um dos meus especialistas em AI
+[20:16] para implementar soluções específicas
+[20:18] do seu negócio,
+[20:19] sem te cobrar
+[20:20] pelo serviço de implementação.
+[20:22] Eu compro essa aposta
+[20:23] porque eu quero o case.
+[20:24] Se fizer sentido para você,
+[20:25] preencha a aplicação aqui embaixo.
+[20:27] A gente se fala do outro lado.
